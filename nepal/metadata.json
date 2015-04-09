@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "template": "",
+    "minzoom": "7",
+    "attribution": "",
+    "center": "83.8037,28.4204,7",
+    "maxzoom": "13",
+    "description": "",
+    "name": "Nepal Districts",
+    "bounds": "79.811,26.1605,88.2924,30.5671"
+}
